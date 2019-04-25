@@ -34,10 +34,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
-        android:text="6thGear Rom Control"
-        android:textColor="@android:color/white"
-        android:layout_margin="10dp"
-        android:textSize="18sp"
-        android:textStyle="bold"/>
+        android:text="NamelessRom Control"
+        android:textColor="#ffffff"
+        android:layout_margin="50dp"
+        android:textSize="20sp"
+        fontPath="fonts/ALIEN5.ttf"/>
 
 </FrameLayout>
